@@ -40,9 +40,7 @@ Example results of Descriptive Section
 
 ![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/result1.png)
 ![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/result2.png)
-![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/result3.png)
 ![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/result11.png)
-![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/result21.png)
 ![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/r1.png)
 
 
